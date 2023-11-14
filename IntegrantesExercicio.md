@@ -1,4 +1,4 @@
-Integrantes 
+Integrantes:
 
 Carlos Eduardo Santana
 Jonathan Kahan
