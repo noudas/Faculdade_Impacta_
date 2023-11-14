@@ -8,7 +8,6 @@ Silvan Souza Nascimento
 
 */
 
-
 import * as http from 'http';
 
 function loggerBuilder(prefix: string) {
